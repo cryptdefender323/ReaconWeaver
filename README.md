@@ -19,6 +19,10 @@ UltraWebRecon is a powerful and versatile web reconnaissance toolkit designed fo
 ## What does it detect?
 <img width="563" height="366" alt="Tangkapan Layar 2025-10-05 pukul 18 06 31" src="https://github.com/user-attachments/assets/5862b423-5b2e-4cc8-b37c-6e32120befa5" />
 
+
+## How do I use it?
+<img width="1470" height="956" alt="Tangkapan Layar 2025-10-05 pukul 18 08 31" src="https://github.com/user-attachments/assets/23f64312-5706-4733-ad20-dbd6f7e2fdf3" />
+
 ## Installation
 
 To install UltraWebRecon, clone the repository and install the required dependencies:
