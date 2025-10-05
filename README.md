@@ -16,13 +16,8 @@ UltraWebRecon is a powerful and versatile web reconnaissance toolkit designed fo
 - **Error Handling and Safety**: Implement robust error handling, automatic retries, and rate limiting to ensure safe operations.
 
 
-## images tools
-<img width="561" height="363" alt="Tangkapan Layar 2025-10-05 pukul 17 23 39" src="https://github.com/user-attachments/assets/25fa2a38-5709-4d2d-af6c-011f8580bec6" />
-
-<img width="569" height="338" alt="Tangkapan Layar 2025-10-05 pukul 16 51 43" src="https://github.com/user-attachments/assets/71e46509-08bb-423c-b58a-bc82e766d46a" />
-
-
-
+## What does it detect?
+<img width="563" height="366" alt="Tangkapan Layar 2025-10-05 pukul 18 06 31" src="https://github.com/user-attachments/assets/5862b423-5b2e-4cc8-b37c-6e32120befa5" />
 
 ## Installation
 
