@@ -31,6 +31,7 @@ To run UltraWebRecon, use the following command:
 
 ```bash
 python main.py --target <target_url> --mode <mode> --output <output_format>
+example : python3 main.py -t http://testphp.vulnweb.com --port-scan --service-detect
 ```
 
 Replace `<target_url>`, `<mode>`, and `<output_format>` with your desired values. For detailed usage instructions and available options, run:
