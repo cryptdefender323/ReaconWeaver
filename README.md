@@ -20,7 +20,7 @@ UltraWebRecon is a powerful and versatile web reconnaissance toolkit designed fo
 To install UltraWebRecon, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/UltraWebRecon.git
+git clone https://github.com/cryptdefender/UltraWebRecon.git
 cd UltraWebRecon
 pip install -r requirements.txt
 ```
